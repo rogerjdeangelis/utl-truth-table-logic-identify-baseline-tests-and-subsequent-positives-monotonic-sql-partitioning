@@ -176,7 +176,7 @@ Truth table logic identify baseline tests and subsequent positives monotonic sql
     /*                           |     by partition                               |                                           */
     /*                           | ;quit;                                         |                                           */
     /*                           |                                                |                                           */
-    /*                           | -----------------------------------------------|-------------------------------------------*/ --------
+    /*                           | -----------------------------------------------|-------------------------------------------*/ 
     /*                           |                                                |                                           */
     /*                           | 4  SQL R PYTHON EXCEL (SAME SQL CODE)          | Seq PATIENT TEST DOSE          incidence  */
     /*                           |    HERE IS THE R SQLLITE SOLUTION              |                                           */
